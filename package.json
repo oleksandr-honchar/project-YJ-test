@@ -1,11 +1,11 @@
 {
-  "name": "project-yjcrew10",
+  "name": "project-yj-test",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-YJcrew10/",
+    "build": "vite build --base=/project-YJ-test/",
     "preview": "vite preview"
   },
   "devDependencies": {
